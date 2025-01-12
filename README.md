@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-  🔭 Currently working on the Oncosort Project<br>
-  🌱 Pursuing education in Deep Learning and Software Engineering<br>
-  🎓 For my thesis, I am focusing on implementing Vision Transformers to detect thyroid cancer from medical images.
+  🔭 Currently working on the Oncosort Project as backend developer.<br>
+  🌱 Pursuing education in Deep Learning and Software Engineering.<br>
+  🎓 For my thesis, I implemented Vision Transformers to detect thyroid cancer from medical images.
 </p>
 
 
