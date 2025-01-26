@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am final year Biomedical Engineering student with specialization in Medical Informatics. My main programming languages are Java and Python.</p>
+<p align="left">I am Biomedical Engineering graduate with specialization in Medical Informatics. My main programming languages are Java, Python and SQL.</p>
 
 ###
 
@@ -13,7 +13,7 @@
 <p align="left">
   🔭 Currently working on the Oncosort Project as backend developer.<br>
   🌱 Pursuing education in Deep Learning and Software Engineering.<br>
-  🎓 For my thesis, I implemented Vision Transformers to detect thyroid cancer from medical images.
+  🎓 For my thesis, I implemented Vision Transformers to detect thyroid cancer from medical images and compared them with Convolutional Neuran Network.
 </p>
 
 
