@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Biomedical Engineering graduate with specialization in Medical Informatics. My main programming languages are Java, Python and SQL.</p>
+<p align="left">I am Computer Engineering Student & Biomedical Engineering graduate with specialization in Medical Informatics. My main programming languages are Java, Python and SQL.</p>
 
 ###
 
