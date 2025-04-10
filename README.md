@@ -13,7 +13,7 @@
 <p align="left">
   🔭 Currently working on the Oncosort Project as backend developer.<br>
   🌱 Pursuing education in Deep Learning and Software Engineering.<br>
-  🎓 For my thesis, I implemented Vision Transformers to detect thyroid cancer from medical images and compared them with Convolutional Neuran Network.
+  🎓 For my engineering thesis, I implemented Vision Transformers to detect thyroid cancer from medical images and compared them with Convolutional Neuran Network.
 </p>
 
 
@@ -47,19 +47,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wujciak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=wujciak&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/wujciak/count.svg?"  />
 </div>
 
 ###
