@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Computer Engineering Student & Biomedical Engineering graduate with specialization in Medical Informatics. My main programming languages are Java, Python and SQL.</p>
+<p align="left">I am Computer Engineering Student & Biomedical Engineering graduate with specialization in Medical Informatics. My main programming languages are Java, Python and SQL. I am also learning Julia for graph algorithms and Go for optimization.</p>
 
 ###
 
@@ -35,6 +35,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
