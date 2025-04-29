@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-💬 Strong communication skills, teamwork experience in Scrum environments, and a passion for continuous learning.
+💬 Strong communication skills, teamwork experience in Scrum environments, and a passion for continuous learning.<br>
 🔭 Currently working as a backend developer on the Oncosort project.<br>
 🌱 Pursuing education in Deep Learning and Software Engineering.<br>
 🎓 For my engineering thesis, I implemented Vision Transformers (ViT) to detect thyroid cancer from ultrasound images and compared their performance with Convolutional Neural Networks (CNNs).<br>
