@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I am a Computer Engineering student and Biomedical Engineering graduate specialized in Medical Informatics. My main programming languages are Java adnd Python. </p>
+<p align="left">I am a Computer Engineering student and Biomedical Engineering graduate specialized in Medical Informatics. My main programming languages are Java and Python. </p>
 
 ###
 
