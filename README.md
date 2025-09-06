@@ -1,10 +1,10 @@
 <h1 align="left">Hello, I'm Jakub Wójciak</h1>
 
-<p align="left"><b>Backend Developer | Java, Spring Boot, SQL</b></p>
+<p align="left"><b>Backend Developer | Java, Python, SQL</b></p>
 
 ###
 
-<p align="left">I am a Computer Engineering student and Biomedical Engineering graduate specialized in Medical Informatics. My main programming languages are Java and Python. </p>
+<p align="left">I am a Computer Engineering student and Biomedical Engineering graduate specialized in Medical Informatics. My main programming skills lay between software engineering and ML/AI. </p>
 
 ###
 
@@ -13,10 +13,10 @@
 ###
 
 <p align="left">
-💬 Strong communication skills, teamwork experience in Scrum environments, and a passion for continuous learning.<br>
-🔭 Currently working as a backend developer on the Oncosort project.<br>
-🌱 Pursuing education in Deep Learning and Software Engineering.<br>
-🎓 For my engineering thesis, I implemented Vision Transformers (ViT) to detect thyroid cancer from ultrasound images and compared their performance with Convolutional Neural Networks (CNNs).
+- Strong communication skills, teamwork experience in Scrum environments, and a passion for continuous learning.<br>
+- Currently working as a backend developer on the Oncosort project.<br>
+- Pursuing education in Deep Learning and Software Engineering.<br>
+- For my engineering thesis, I implemented Vision Transformers (ViT) to detect thyroid cancer from ultrasound images and compared their performance with Convolutional Neural Networks (CNNs).
 </p>
 
 ###
@@ -39,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
