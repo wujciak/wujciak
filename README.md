@@ -1,7 +1,5 @@
 <h1 align="left">Hi, I'm Jakub Wójciak</h1>
 
-<p align="left"><b>Software Engineer</b></p>
-
 ---
 
 <p align="left">
