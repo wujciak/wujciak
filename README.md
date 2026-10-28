@@ -10,8 +10,8 @@ ML Engineer based in Olsztyn, Poland, working remotely (open to relocating to Wr
 the backend that serves them. Most of my work is in medical data and speech.
 
 - **ML Engineer at EENGINE Software House.** Speech recognition for call-center audio: fine-tuned
-  Whisper for Polish (WER 16% → 12%) and NeMo FastConformer for Romanian (WER 30% → 17%), plus
-  LLM-based extraction from call transcripts.
+  Whisper for Polish (WER from 16% to 12%) and NeMo FastConformer for Romanian (WER from 30% to
+  17%), plus LLM-based extraction from call transcripts.
 - **Backend developer at Oncosort** (finalist of *Our Future Founders*). Spring Cloud
   microservices for a medical data platform.
 - **MSc Computer Engineering** (2026) and **BEng Biomedical Engineering**, medical informatics
@@ -24,7 +24,7 @@ the backend that serves them. Most of my work is in medical data and speech.
 - [**medical-ood-detection**](https://github.com/wujciak/medical-ood-detection). My master's
   thesis: label-free out-of-distribution detection from K-Means centroid distances on frozen ViT
   and ResNet-50 embeddings. It covers 80 configurations, each with 5-fold cross-validation and
-  Friedman–Nemenyi tests. AUROC is ≥ 0.999 on far-OOD and 0.81 on near-OOD, and the CNN beats
+  Friedman–Nemenyi tests. AUROC is 0.999 on far-OOD and 0.81 on near-OOD, and the CNN beats
   the ViT on near-OOD.
 - [**thyroid-ultrasound-vit**](https://github.com/wujciak/thyroid-ultrasound-vit). My engineering
   thesis, redone after I found data leakage in the original evaluation. A pretrained ViT-B/16
