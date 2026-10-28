@@ -42,9 +42,11 @@ the backend that serves them. Most of my work is in medical data and speech.
 - [**cvrp-metaheuristics**](https://github.com/wujciak/cvrp-metaheuristics). A genetic algorithm,
   simulated annealing and baselines for vehicle routing, in plain Java. The genetic algorithm
   gets within 4.7% of the optimum on the Augerat A-set.
-- [**library-management-system**](https://github.com/wujciak/library-management-system). A Spring
-  Boot REST API with JWT and role-based access, Liquibase migrations, row locking and 19
-  Testcontainers integration tests. It has a React UI, Docker Compose and CI.
+- [**library-management-system**](https://github.com/wujciak/library-management-system). A library
+  web app with multilingual semantic search. A Spring Boot REST API (JWT, Liquibase, 26
+  Testcontainers tests) works with a small Python service that embeds book descriptions with
+  sentence-transformers. Search puts the right book in the top 5 for 90% of test queries, against
+  38% for keyword search, and Polish queries find books described in English.
 
 ## Tech stack
 
